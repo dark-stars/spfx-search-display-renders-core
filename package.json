@@ -1,6 +1,6 @@
 {
   "name": "spfx-search-display-renderers-core",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "engines": {
     "node": ">=0.10.0"

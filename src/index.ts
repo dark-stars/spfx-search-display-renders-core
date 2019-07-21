@@ -1,1 +1,4 @@
-export const Greeter = (name: string) => `Hello ${name}`;
+export { RendererType } from './models/RendererType';
+export {
+  default as SearchResultsRendererService,
+} from './services/SearchResultsRendererService/SearchResultsRendererService';
