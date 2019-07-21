@@ -1,4 +1,4 @@
-import { RendererType } from "./RendererType";
+import { RendererType } from './RendererType';
 
 export interface IRenderer {
   id: string;

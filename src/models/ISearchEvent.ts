@@ -1,5 +1,5 @@
-import { ICustomTemplateFieldValue } from "./ICustomTemplateFieldValue";
-import { ISearchResults } from "./ISearchResult";
+import { ICustomTemplateFieldValue } from './ICustomTemplateFieldValue';
+import { ISearchResults } from './ISearchResult';
 
 export interface ISearchEvent extends CustomEvent {
   rendererId?: string;
